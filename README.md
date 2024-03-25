@@ -72,7 +72,7 @@ To replicate the results or further improve the model:
 
 ## Dependencies
 
-- Python 3.7
+- Python 3
 - Jupyter Notebook
 - Pandas
 - NumPy
